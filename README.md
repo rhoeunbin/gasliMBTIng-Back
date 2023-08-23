@@ -1,16 +1,17 @@
 # gasliMBTIng
 
->  'MBTI는 gaslighting가 아닐까?' 라는 생각에 이름을 gaslighting과 MBTI를 합쳐 `gasliMBTIng`으로 정함gasliMBTIng의 초성을 따 GL을 가운데 로고로 넣고, 16개의 MBTI를 작은 불씨로 표현하여 가스등 주변에 배치
+>  'MBTI는 gaslighting가 아닐까?' 라는 생각에 이름을 gaslighting과 MBTI를 합쳐 `gasliMBTIng`으로 정함
+> 
+>  gasliMBTIng의 초성을 따 GL을 가운데 로고로 넣고, 16개의 MBTI를 작은 불씨로 표현하여 가스등 주변에 배치
 
-![gaslimbtinglogo](C:\Users\노현빈\Desktop\gaslimbtinglogo.png)
+![gaslimbtinglogo](https://github.com/rhoeunbin/gasliMBTIng-Back/assets/108652504/d7047fc7-2cf3-4f7c-89c1-01f904f5e7b5)
 
 
 ## 기획 의도
 
-> 주변 사람들의 MBTI 정보를 손쉽게 저장
+> 주변 사람들의 MBTI 정보를 손쉽게 저장하고 간편하게 확인할 수 있는 사전과 같은 앱
 >
-> 간편하게 확인할 수 있는 사전과 같은 앱
-
+> 
 
 ## 기간
 
@@ -56,9 +57,10 @@
 
 ## ✨서비스 소개
 
-##### 메인페이지
+### 메인페이지
 
-![3  main](https://user-images.githubusercontent.com/108647524/215270687-d997d573-3792-4259-b096-c3fb001c65dd.png)
+![gasliMBTIng_main](https://github.com/rhoeunbin/gasliMBTIng-Back/assets/108652504/762b65a1-6855-4d22-a2f1-989e5cf631f7)
+
 
 
 - 로고의 16개 별은 MBTI의 16가지 성격 유형을 표현했습니다.
@@ -68,9 +70,9 @@
 
 
 
-##### 로그인, 회원가입 페이지
+### 로그인, 회원가입 페이지
 
-![4  login](https://user-images.githubusercontent.com/108647524/215270688-04154593-46af-4db1-a07b-7bc19512391a.png)
+![gasliMBTIng_login](https://github.com/rhoeunbin/gasliMBTIng-Back/assets/108652504/0892be4c-ab86-4cf9-aa60-f9edb9d9b142)
 
 
 - 이메일, 비밀번호로 로그인합니다. 또한 카카오 로그인을 통해 소셜 로그인이 가능합니다.
@@ -82,9 +84,9 @@
 
 
 
-##### MBTI 저장 페이지
+### MBTI 저장 페이지
 
-![5  mbti](https://user-images.githubusercontent.com/108647524/215270689-60b562b3-736c-48d3-9f5d-e8afdb12bac7.png)
+![gasliMBTIng_guest](https://github.com/rhoeunbin/gasliMBTIng-Back/assets/108652504/f38a494f-5e4d-48f3-a53d-096b6d53bc57)
 
 
 - 친구, 가족 등 지인들의 MBTI 정보를 저장할 수 있는 페이지 입니다. 이름, MBTI, 그룹태그를 넣어 저장하고 목록을 생성할 수 있습니다.
@@ -93,9 +95,9 @@
 
 
 
-##### MBTI 정보 페이지
+### MBTI 정보 페이지
 
-![6  info](https://user-images.githubusercontent.com/108647524/215270690-13e6f1be-3bdb-4e01-8ada-dc55ae0bc976.png)
+![gasliMBTIng_info](https://github.com/rhoeunbin/gasliMBTIng-Back/assets/108652504/2be885c2-3fd2-4d4a-ae99-adc0751a7640)
 
 - MBTI 정보에서는 MBTI 성격 유형 별 다양한 글을 열람할 수 있도록 한 조회 페이지 입니다.
 - MBTI 별 성격 특징을 알려주기도 하며, 다른 MBTI의 사람을 만날 때 주의할 점이나 상대하는 유용한 방법을 안내합니다.
@@ -104,9 +106,9 @@
 
 
 
-##### 커뮤니티 페이지
+### 커뮤니티 페이지
 
-![7  commu](https://user-images.githubusercontent.com/108647524/215270691-a70cf37b-493a-4d44-8f12-6189c51f47e1.png)
+![gasliMBTIng_commu](https://github.com/rhoeunbin/gasliMBTIng-Back/assets/108652504/b345db47-22c4-4bb0-8095-290aa880592b)
 
 - 커뮤니티는 사용자 간에 자유롭게 글을 쓰고 의견을 주고 받는 페이지입니다.
 - 커뮤니티 글을 작성할 때 글의 유형이 무엇인지 카테고리를 선택하고 본인의 MBTI 정보를 입력하여, 글을 읽는 사람들이 이 글이 어떤 MBTI 사람의 글인지를 쉽게 파악하게 합니다.
@@ -116,9 +118,9 @@
 
 
 
-##### 회원정보, 방명록 페이지
+### 회원정보, 방명록 페이지
 
-![8  profile](https://user-images.githubusercontent.com/108647524/215270694-06902fec-f8da-44a4-87d1-bd5f9d697b0d.png)
+![gasliMBTIng_profile](https://github.com/rhoeunbin/gasliMBTIng-Back/assets/108652504/678d7971-1351-4ede-bc51-6d27a7a50f66)
 
 - 회원정보 페이지에서는 사용자 본인의 정보를 확인하고 편집할 수 있습니다. 또한 로그아웃, 회원탈퇴 버튼을 통해 계정 사용을 중지하거나 계정 삭제를 할 수 있습니다.
 - 다른 사용자의 회원정보 페이지에 접근하여 방명록을 쓸 수 있도록 하였습니다.
